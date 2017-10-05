@@ -67,6 +67,8 @@ For Example:
 
 > This step generates a new file, e.g. bundle-optimized.js
 
+In order to let you inspect what UFFs were detected and removed, they are logged in the console
+
 #### 8. Test your optimization file
 
 To test your optimized file you need to replace in your site the original file with the optimized file.
